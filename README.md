@@ -6,10 +6,11 @@ The Main Page and Github.io官方主页
 ### 登录邮箱：cumt_iot_resource@163.com
 ### 密码：52cumtdczxwlw
 ===
-另外还有个公共邮箱给大家
+
+另外还有个公共邮箱给大家，并且已经在github上注册，大家可以用来练手。
 ### 公共邮箱：cumtdczxwlw@163.com
 ### 邮箱密码：52cumtdczxwlw
-并且已经在github上注册，大家可以用来练手。
+
 ===
 ### 创建者：<a href="https://github.com/liuqidev">QiLiu</a>
 ### 贡献者：<a href="https://github.com/liuqidev">QiLiu</a>
